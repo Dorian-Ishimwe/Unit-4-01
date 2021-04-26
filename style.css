@@ -1,0 +1,17 @@
+body {
+  background-color: yellow;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 300%;
+  font-family: fantasy;
+}
+
+p {
+  color: brown;
+  text-align: center;
+  font-size: 200%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
